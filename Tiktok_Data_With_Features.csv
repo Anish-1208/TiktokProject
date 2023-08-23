@@ -1,0 +1,60 @@
+Creator ID,Creator Name,Username,Content,Followers,Likes,Comments,Shares,Views,Audience Age,Audience Gender,Audience Location,Video URL,Visual_Features
+1,Charlie D'Amelio,@charliedamelio,dance videos,150500000,11400000000,4500000,900000,200000000,13-24,female,United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/CharlieDmelio1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/CharlieDmelio2.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/CharlieDmelio3.mp4']","[array([0.3253895 , 0.2799853 , 0.3781542 , ..., 0.41571844, 0.5324778 ,
+       0.2466604 ], dtype=float32), array([0.17917807, 0.30341613, 0.275873  , ..., 0.26051807, 0.7138151 ,
+       0.7371612 ], dtype=float32), array([0.4472446 , 0.37456366, 0.302593  , ..., 0.73732847, 0.33345377,
+       0.38643172], dtype=float32)]"
+2,Addison Rae,@addisonrae,"dance videos, lifestyle ",88700000,5800000000,1800000,300000,80000000,13-24,female,United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/addisonrae1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/addisonrae2.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/addisonrae3.mp4']","[array([0.36046156, 0.40357497, 0.71326995, ..., 0.3521432 , 0.54429644,
+       0.31878582], dtype=float32), array([0.13898738, 0.29762787, 0.2028052 , ..., 0.09819131, 0.3229316 ,
+       0.31244406], dtype=float32), array([0.6616867 , 0.6847905 , 0.47933787, ..., 0.339561  , 0.25818428,
+       0.4934359 ], dtype=float32)]"
+3,Bella Poarch,@bellapoarch,"lip syncing, dance videos",92800000,2300000000,900000,150000,30000000,13-24,"male, female",United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/bellapoarch1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/bellapoarch2.mp4']","[array([0.18722749, 0.2738665 , 0.46069327, ..., 0.25951985, 0.3867918 ,
+       0.7047254 ], dtype=float32), array([0.520298  , 0.43328127, 0.4560835 , ..., 0.2660085 , 0.61543167,
+       0.350701  ], dtype=float32)]"
+4,Spencer X,@spencerx,beatboxing,55300000,1300000000,350000,75000,15000000,13-24,male,United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/spencerx1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/spencerx2.mp4']","[array([0.30378196, 0.22282079, 0.5883355 , ..., 0.42934665, 0.44146568,
+       0.31209853], dtype=float32), array([0.14419666, 0.16592233, 0.2221915 , ..., 0.5121662 , 0.96989876,
+       0.28381634], dtype=float32)]"
+5,Michael Le,@justmaiko,"dance videos, comedy sketches",52100000,1400000000,450000,100000,18000000,13-24,"male, female",United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/michaelle1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/michaelle2.mp4']","[array([0.30977014, 0.2719086 , 0.44878256, ..., 0.3534882 , 0.49420315,
+       0.33007458], dtype=float32), array([0.32567438, 0.2913455 , 0.43486476, ..., 0.32646793, 0.59574455,
+       0.26182818], dtype=float32)]"
+6,Dixie D'Amelio,@dixiedamelio,"dance videos, vlogs",57200000,3300000000,1000000,200000,50000000,13-24,female,United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/dixiedmelio1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/dixiedmelio2.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/dixiedmelio3.mp4']","[array([0.5516852, 0.3773355, 0.6615034, ..., 0.3356865, 0.6447476,
+       0.4819514], dtype=float32), array([0.59547204, 0.33724102, 0.1099203 , ..., 0.346     , 0.4196049 ,
+       0.17516164], dtype=float32), array([0.3826041 , 0.3916217 , 0.6635389 , ..., 0.38529277, 0.4888853 ,
+       0.5529902 ], dtype=float32)]"
+7,Tony Lopez,@tonylopez,"dance videos, comedy sketches",23200000,1200000000,350000,75000,15000000,13-24,"male, female",United States,['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/tonylopez1.mp4'],"[array([0.18837948, 0.17080617, 0.2767955 , ..., 0.07324162, 0.79588026,
+       0.23859683], dtype=float32)]"
+8,Larray,@larrayeeee,"comedy sketches, parodies",26700000,816900000,250000,50000,10000000,13-24,"male, female",United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/larry1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/larry2.mp4']","[array([0.41189486, 0.28352395, 0.6607804 , ..., 0.37791255, 0.64939386,
+       0.43927476], dtype=float32), array([0.38077134, 0.41486436, 0.48464543, ..., 0.40825394, 0.550473  ,
+       0.5198644 ], dtype=float32)]"
+9,Zach King,@zachking,"magic tricks, video editing",75800000,100000000,35000,10000,500000,13-24,"male, female",United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/zachking1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/zachking2.mp4']","[array([0.4064864 , 0.24152237, 0.33573058, ..., 0.3766427 , 0.70539   ,
+       0.7536804 ], dtype=float32), array([0.34836587, 0.21574943, 0.58502257, ..., 0.1373895 , 0.6444907 ,
+       0.30978495], dtype=float32)]"
+10,Jason Derulo,@jasonderulo,"music, dance vidoes",57800000,1200000000,400000,80000,18000000,13-24,"male, female",United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/jasonderulo1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/jasonderulo2.mp4']","[array([0.89339733, 0.41395846, 0.47449198, ..., 0.40353358, 0.2545757 ,
+       0.24875417], dtype=float32), array([0.2900495 , 0.52838016, 0.89405274, ..., 0.3470528 , 0.96899414,
+       0.23556374], dtype=float32)]"
+11,Khaby Lame,@khaby.lame,"comedy sketches, reaction videos",157100000,2300000000,700000,130000,35000000,13-24,"male, female",United States,['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/khabylame1.mp4'],"[array([0.32054085, 0.29918584, 0.43554312, ..., 0.27943593, 0.5233308 ,
+       0.3239542 ], dtype=float32)]"
+12,James Charles,@jamescharles,"makeup tutorials, beauty content",37600000,1100000000,300000,60000,15000000,13-24,"male, female",United States,['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/jamescharles1.mp4'],"[array([0.2841724 , 0.39876372, 0.32563338, ..., 0.5049575 , 0.45071226,
+       0.5214263 ], dtype=float32)]"
+13,Noah Beck,@noahbeck,"vlogs, lifestyle content",34000000,2400000000,600000,120000,30000000,13-24,female,United States,['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/noahbeck1.mp4'],"[array([0.31112787, 0.23304808, 0.33344528, ..., 0.08649433, 0.2985064 ,
+       0.4208467 ], dtype=float32)]"
+14,Joja Siwa,@itsjojasiwa,"music, dance vidoes",45900000,1800000000,500000,100000,20000000,13-24,female,United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/jojasiwa1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/jojasiwa2.mp4']","[array([0.20872478, 0.28982055, 0.23687898, ..., 0.2030157 , 0.34041655,
+       0.31137663], dtype=float32), array([0.5230534 , 0.2557769 , 0.3553335 , ..., 0.30106694, 0.6918877 ,
+       0.4828553 ], dtype=float32)]"
+15,Loren Gray,@lorengray,"music, lifestyle ",54400000,300000000,50000,10000,1000000,13-24,"male, female",United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/lorengray1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/lorengray2.mp4']","[array([0.75888234, 0.18528813, 0.65106475, ..., 0.31378672, 1.101586  ,
+       0.64860004], dtype=float32), array([0.56715596, 0.37042734, 0.705874  , ..., 0.23950425, 0.41151306,
+       0.38451746], dtype=float32)]"
+16,David Dobrik,@daviddobrik,"vlogs, comedy sketches",26300000,1300000000,130000,450000,9000000,13-24,"male, female",United States,"['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/daviddobrik1.mp4', '/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/daviddobrik2.mp4']","[array([0.29066595, 0.38099813, 0.47911018, ..., 0.37423512, 0.384404  ,
+       0.54884195], dtype=float32), array([0.25104567, 0.40076807, 0.29423591, ..., 0.3449861 , 0.3733729 ,
+       0.46232927], dtype=float32)]"
+17,Nikkie de Jager,@nikkietutorials,"makeup tutorials, beauty content",7100000,179100000,50000,200000,4000000,18-34,female,United States,['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/nikkiedejaegar1.mp4'],"[array([0.20197785, 0.29713914, 0.72260046, ..., 0.23240006, 0.48885185,
+       0.5144855 ], dtype=float32)]"
+18,Brent Rivera,@brentrivera,"comedy sketches, vlogs",46700000,1500000000,90000,350000,7000000,13-24,"male, female",United States,['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/brentrivera1.mp4'],"[array([0.3298431 , 0.4102436 , 0.47189456, ..., 0.35496804, 0.49419633,
+       0.48755804], dtype=float32)]"
+19,Lele Pons,@lelepons,"comedy sketches, vlogs",31200000,678300000,120000,400000,8000000,18-24,"male, female",United States,['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/lelepons1.mp4'],"[array([0.37286603, 0.2870989 , 0.4237216 , ..., 0.28636912, 0.5044971 ,
+       0.39884317], dtype=float32)]"
+20,Avani Gregg,@avani,"dance videos, beauty content",43100000,300000000,70000,250000,5000000,13-17,"male, female",United States,['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/avani1.mp4'],"[array([0.3232128 , 0.3439602 , 0.2815009 , ..., 0.2568113 , 0.42728823,
+       0.2725731 ], dtype=float32)]"
+21,Josh Richards,@joshrichards,"dance videos, vlogs",26000000,1900000000,85000,300000,6000000,18-24,"male, female",United States,['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/joshrichards1.mp4'],"[array([0.2815294 , 0.38588735, 0.31651422, ..., 0.19158183, 0.44437203,
+       0.5320827 ], dtype=float32)]"
+22,Huddy,@huddy,"dance videos, comedy sketches",31900000,1700000000,80000,280000,5600000,18-24,"male, female",United States,['/content/drive/MyDrive/Tiktok_Project/Tiktok Videos/huddy1.mp4'],"[array([0.6472906 , 0.69571865, 0.45513877, ..., 0.5623455 , 0.4317372 ,
+       0.6290856 ], dtype=float32)]"
