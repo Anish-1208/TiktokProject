@@ -57,3 +57,8 @@ This project aims to bridge the gap between brands and TikTok creators using a p
 ## Conclusion
 
 The system ensures a win-win scenario: creators find genuine sponsors, brands connect with effective influencers, and TikTok can explore a potential revenue stream. With further refinement and more data sources, the potential of this recommendation system can be further unlocked.
+
+
+## Note 
+
+This repository does not include the media files which contains videos of content creators and influencers. User may download it from Tiktok.
